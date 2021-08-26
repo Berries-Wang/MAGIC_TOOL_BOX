@@ -9,5 +9,5 @@
         2. HEAD COMMIT 
         3. Use git stash when you want to record the current state of the working directory and the index<sup>当你想记录当前工作目录和索引区的状态，你就可以使用git stash</sup>
     - 即,能收获什么
-              1. 回到一个干净的工作目录，保存你本地的更改并且将工作目录回滚到HEAD commit一样
-              2. 记录工作目录和索引区的状态
+        1. 回到一个干净的工作目录，保存你本地的更改并且将工作目录回滚到HEAD commit一样
+        2. 记录工作目录和索引区的状态
